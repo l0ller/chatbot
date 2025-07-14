@@ -1,365 +1,366 @@
-[{
-  "question": "How do I complete offline KYC for mutual funds?",
-  "answer": "To complete your MF KYC offline, you'll need a PAN card, e-Aadhaar card, passport-size photo, and a filled CKYC form from CAMS. Submit these along with the client’s mother's name, mobile number, and email ID, plus a cheque from an existing mutual fund investment mentioning your PAN. All documents must be physically submitted to PRUDENT, including signed copies of Aadhaar, PAN, and the cheque, with the form signed at two locations."
-},
-{
-  "question": "How do I update my address in mutual fund records?",
-  "answer": "To update your address for mutual funds, submit the CKYC form and the Common Modification Form filled with updated details. You'll need to attach copies of your PAN card, Aadhaar card, passport-size photo, and a Statement of Account (SOA) for the folio. Also include your mother's name, mobile number, and email ID, and a cheque from an existing mutual fund mentioning PAN. Submit everything physically to PRUDENT."
-},
-{
-  "question": "How can I request an equity payout?",
-  "answer": "To request an equity payout, clients can submit a request either online or offline. Once received, a mail is to be sent to KOTAK and initiate the payout process. No specific documents are required unless requested separately."
-},
-{
-  "question": "How do I update my name in mutual fund records?",
-  "answer": "For a name change in mutual fund records, fill out the Common Modification Form with updated details and attach supporting documents including PAN card and Aadhaar card copies. Submit the completed set physically to PRUDENT."
-},
-{
-  "question": "How do I submit an MF Fund Bazaar Mandate offline?",
-  "answer": "To submit an MF Fund Bazaar Mandate offline, fill out the Fund Bazaar Mandate form and sign it exactly as per the records with your bank. Submit the signed form in physical format to PRUDENT for processing."
-},
-{
-  "question": "How do I resolve an EQ application issue?",
-  "answer": "EQ application issues are handled on a case-by-case basis. Since these are general problems without a fixed workflow, they are resolved at the time they occur by analyzing the specific situation and providing the appropriate solution."
-},
-{
-  "question": "What should I do in case of an EQ DID error?",
-  "answer": "In the event of an EQ DID (Direct Inward Dialing) error, send an email to Kotak support at ksvr.support@kotak.com with the necessary client and error details for resolution."
-},
-{
-  "question": "How do I resolve an EQ application login error?",
-  "answer": "EQ application login errors are treated as general issues. When such a problem arises, it is resolved immediately based on the client's input and the nature of the error, using standard troubleshooting practices."
-},
-{
-  "question": "How do I update my signature for an equity account?",
-  "answer": "To update your signature for an equity account, you need to fill out both the CKYC form and the signature update form issued by Kotak. Required documents include a PAN card, e-Aadhaar card, and a passport-size photo. Additional details such as mother’s name, mobile number, and email ID must be included. All forms and documents must be submitted physically to Kotak for the update to be processed."
-},
-{
-  "question": "How do I add a new member to an insurance policy?",
-  "answer": "The member addition process varies across insurance companies. Each provider has its own procedure, so the appropriate steps will be determined and resolved when a request is received, based on the company's specific workflow."
-},
-{
-  "question": "How can I reclaim a rejected insurance claim?",
-  "answer": "Since the rejection and reclaim process differs for each insurer, the resolution is handled on a case-by-case basis. Typically, you will need to resubmit all required documents after rectifying the issue that caused the initial rejection. The exact steps depend on the rejection reason and the insurer's internal process."
-},
-{
-  "question": "How do I transfer stocks using the DIS process?",
-  "answer": "To transfer stocks via the DIS (Delivery Instruction Slip) process, fill out the DIS slip along with the Beneficiary Form and submit both to Kotak. The DIS book should also be sent to the broker from whom the stocks are being transferred. After submission, the back office (OPR team) will initiate the transfer procedure."
-},
-{
-  "question": "How is a PCG portfolio review conducted?",
-  "answer": "A PCG (Private Client Group) portfolio review is managed by the research department and an authorized representative. They will assess the client’s holdings and provide insights or recommendations based on investment goals and current market performance."
-},
-{
-  "question": "How do I resolve issues with trade confirmation messages for equity transactions?",
-  "answer": "In case of any discrepancies or issues with trade confirmation messages, an internal follow-up is conducted with the relevant Kotak back-office team. Specifically, the matter is directed to Akshaybhai or the concerned person in the operations team for verification and resolution."
-},
-{
-  "question": "How do I request deactivation of an equity segment in my trading account?",
-  "answer": "To deactivate a trading segment, send an email from your registered email ID to service.securities@kotak.com, opsgondal@erigoindia.com, and mayur.thaker@kotak.com. The email should contain a subject line such as 'Segment Deactivation Request' and include your name, client code, and DP ID, along with the specific segment you wish to deactivate."
-},
-{
-  "question": "How do I switch from Trade Free to a Normal brokerage account?",
-  "answer": "To switch from a Trade Free to a Normal brokerage account, send an email from your registered email ID to lalitkotadiya@erigoindia.com and opsgondal@erigoindia.com. Include your name, client code, and DP ID, with a request to apply the standard brokerage rate. It is also recommended to forward this request to akshay.limbachia@kotak.com, harshad.balolkar@kotak.com, and service.securities@kotak.com for additional processing."
-},
-{
-  "question": "How do I check the status of my mutual fund transactions?",
-  "answer": "You can check the status of your mutual fund transactions via the FundzBazar or PRUDENT application. Notifications about updates will also be provided through the portal or via communication from the PRUDENT office."
-},
-{
-  "question": "How do I update a relationship in my equity account?",
-  "answer": "To update a relationship (e.g., joint holder or guardian), fill out the relationship update form, get it signed by the client, and submit it physically to the Kotak branch office for processing."
-},
-{
-  "question": "How can I get help with an insurance policy query?",
-  "answer": "Insurance policy queries are addressed based on the nature of the issue. If a policy copy is required, it will be requested through the appropriate platform. Submit your specific query so that it can be resolved with the right documentation and turnaround time."
-},
-{
-  "question": "How do I close my equity and mutual fund account?",
-  "answer": "To close an account online, the client must log in and process the request through the designated portal. For offline closure, fill out the account closure form and submit it physically to the Kotak office. It typically takes 4–5 business days. Mutual fund accounts must show zero balance before closure, so ensure all holdings are redeemed prior to submission."
-},
-{
-  "question": "How can I deactivate the Margin Trading Facility (MTF) on my equity account?",
-  "answer": "To deactivate MTF, send an email from your registered email address to service.securities@kotak.com, opsgondal@erigoindia.com, and mayur.thaker@kotak.com. Include your name, client code, and DP ID in the request and clearly mention the deactivation of MTF."
-},
-{
-  "question": "How do I revalidate a mutual fund payment after a bank change?",
-  "answer": "If a bank change has been made for a folio, and a cheque is received post-update, re-submit the cheque to the AMC along with the Revalidation Form. Submit both the new and old bank's cancelled cheques, along with the Common Transaction Form to complete the revalidation process."
-},
-{
-  "question": "How do I submit a mutual fund FundzBazar mandate online?",
-  "answer": "You can submit the FundzBazar mandate online via the FundzBazar app, through your RM (Relationship Manager), or using your broker's banking portal. The payment can be completed using debit card or net banking."
-},
-{
-  "question": "How do I validate my MF KYC status?",
-  "answer": "If KYC is already registered, it must be verified via OTP-based eKYC using the client's registered email ID and mobile number. If Aadhaar was used, online OTP verification is preferred. If not possible, a physical validation process must be completed by submitting documents offline."
-},
-{
-  "question": "How is an equity brokerage reversal processed?",
-  "answer": "A brokerage reversal request must be handled by an authorized person only. If you are eligible and the case is valid, the authorized representative will initiate the reversal process on your behalf."
-},
-{
-  "question": "How do I convert my minor account to a major account in equity and mutual funds?",
-  "answer": "To convert a minor account to a major account, close the existing minor account and open a new major account. Submit the Minor to Major conversion form, account opening nomination form, and KYC form. Also attach a cancelled cheque from the new major account holder’s bank account. Once documentation is complete, the transition process will be executed."
-},
-{
-  "question": "How do I resolve issues with my demat position?",
-  "answer": "Demat position issues are treated as general queries. When reported, the support team will analyze the situation and provide a suitable solution based on the nature of the discrepancy."
-},
-{
-  "question": "How do I transfer stocks from another DP account?",
-  "answer": "To transfer stocks from another depository participant (DP) account, initiate the closure-cum-transfer process through the API channel. Submit the CML (Client Master List) copy of the new account along with the transfer request. The stocks will be transferred once the closure of the existing account is confirmed."
-},
-{
-  "question": "How do I activate the Margin Trading Facility (MTF) on my account?",
-  "answer": "To activate MTF online, log into the Kotak Securities mobile application and follow the activation process. Offline, send an email from your registered email ID to service.securities@kotak.com, opsgondal@erigoindia.com, and mayur.thaker@kotak.com. Include your name, client code, DP ID (IN300214), and client ID. State that you agree to the terms and conditions mentioned at https://www.kotaksecurities.com/whatweoffer/PDF/MTFActivation.pdf."
-},
-{
-  "question": "How do I upload a recording to Kotak CRM?",
-  "answer": "To upload a recording in Kotak CRM: go to 'NEW QUERY', search and select the client code, choose product 'DUMMY_KSEC', set 'CALL TYPE' as 'TRADING RELATED', and 'SUB CALL TYPE' as 'PRE-TRADE CONFIRMATION'. Set source as 'BRANCH', SRNATURE as 'FTR', add remarks if any, attach the recording document, and click 'SAVE'. This will generate a query ID."
-},
-{
-  "question": "How do I activate the youth plan on my equity account?",
-  "answer": "To activate the Trade Free Youth Plan, send an email from your registered email ID to lalitkotadiya@erigoindia.com and opsgondal@erigoindia.com. Mention that you're facing an upgrade error on the application and provide your name, client code, and client ID."
-},
-{
-  "question": "How do I change the SIP date for a mutual fund?",
-  "answer": "To change your SIP date, first stop the existing SIP and then initiate a new SIP with the updated date. This can typically be done through the FundzBazar platform or via your AMC’s official channels."
-},
-{
-  "question": "How do I change the location on my equity account?",
-  "answer": "Location change requests for equity accounts must be submitted through an authorized person. The AP (Authorized Person) should initiate the process and communicate the changes to Kotak via official email."
-},
-{
-  "question": "How do I convert an equity account to Kotak Neo?",
-  "answer": "For online clients, the conversion to Kotak Neo can be handled directly. For offline clients, send an email with the trading code, DP ID, client name, and current location to Akshaybhai. The consolidated list of details should be shared to initiate the conversion process."
-},
-{
-  "question": "How do I resolve an equity dividend issue?",
-  "answer": "To resolve any issues related to equity dividend credit or discrepancies, the matter must be discussed with the Registrar and Transfer Agent (RTA). Once the problem is identified, the concerned team will coordinate with the RTA to get the issue resolved for the client."
-},
-{
-  "question": "How can I retrieve a contract note for equity transactions?",
-  "answer": "Contract notes and bills can be downloaded from Kotak BOSS by navigating to REPORT > DOCUMENTS > Digitally Signed Contract Notes and Bill. Enter the client code, select the relevant date range, and click SUBMIT. This access is available through the Authorized Person’s (AP's) login."
-},
-{
-  "question": "How do I activate the Trinity account for equity?",
-  "answer": "To activate the Trinity account, the activation form and CRN (Customer Reference Number) profile must be completed and submitted to Kotak. The client’s signature is required on the form, and the authorized partner (AP) must send it to Kotak for further processing."
-},
-{
-  "question": "How do I initiate equity account closure with transfer of holdings?",
-  "answer": "To perform an equity account closure with transfer, initiate the Closure Cum Transfer process via API. Fill out the other DP’s transfer form and attach the Client Master List (CML) copy of the receiving account. Submit all documents for approval and processing."
-},
-{
-  "question": "How do I link PAN and Aadhaar for mutual fund accounts?",
-  "answer": "Linking PAN and Aadhaar is a mandatory client-side process. The client must be informed of this requirement and guided to complete the linking themselves through the official portal. Timely follow-up should be done to ensure compliance."
-},
-{
-  "question": "How do I switch my contract note from physical to digital mode?",
-  "answer": "To switch your contract notes from physical to digital delivery, send an email from your registered email ID to kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com, and opsgondal@erigoindia.com. Include your name, client code, and client ID in the message and mention that you wish to receive contract notes in digital format going forward."
-},
-{
-  "question": "Who can confirm DP charges as per NSDL guidelines?",
-  "answer": "The confirmation of DP (Depository Participant) charges as per NSDL must be handled by an authorized person. Reach out to them for verification or clarification of applicable charges."
-},
-{
-  "question": "How do I get a Ledger Balance Confirmation (LBC)?",
-  "answer": "Ledger Balance Confirmation can be processed online or offline. Online confirmations are handled via the CRM system. For offline mode, go to 'NEW QUERY' in Kotak CRM, search and select the client code, choose 'OUTBOUND PROCESS-NEW' as the product, and set the call type to 'LBC'. Select 'CONNECTED-EMAIL TO CLIENT' as the sub call type, attach the LBC document, and save the entry to generate the query."
-},
-{
-  "question": "How do I apply for an IPO online or offline?",
-  "answer": "For online IPO application, open the IPO link, log into the portal, search and select the client code, choose the IPO name and category (Retail/HNI), enter your UPI ID, review bid details, accept terms and conditions, and confirm the order. For offline application, use the IPO app to enter data, print the selected client details, and submit the physical form with the selected IPO name."
-},
-{
-  "question": "How do I update my income information in equity records?",
-  "answer": "To update your income information, fill out the income declaration form and submit it physically to the Kotak office. Alternatively, online clients can log in to their account and update their income details through the service request section."
-},
-{
-  "question": "How do I convert my account to the Trade Free Plan?",
-  "answer": "To upgrade to the Trade Free Plan, send an email from your registered email ID to lalitkotadiya@erigoindia.com and opsgondal@erigoindia.com. Include your name, client code, and client ID in the request. If you're facing errors while trying to upgrade via the app, mention that in your message for quicker resolution."
-},
-{
-  "question": "How do I update my name in equity records?",
-  "answer": "To update your name, submit the name change form along with updated KYC documents that reflect your new name. Also, fill and submit the CKYC form to Kotak physically for the change to take effect."
-},
-{
-  "question": "How do I update demat account authority details?",
-  "answer": "If the existing authorized person differs from the one you wish to assign, send an email from your registered email ID. The new authorized person must submit their PAN card, Aadhaar card, and a passport-size photo. In-person verification and submission of forms may be required to complete the authority update process."
-},
-{
-  "question": "How do I request a demo for a general application?",
-  "answer": "General application demos are provided based on individual queries. Once a request is received, the demo will be arranged accordingly. Ensure the application is installed, and credentials like email ID and password are ready to proceed with the demo."
-},
-{
-  "question": "How do I change my auto payout schedule?",
-  "answer": "To change your equity auto payout schedule (e.g., from daily to quarterly), send an email from your registered email ID to kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com, and opsgondal@erigoindia.com. Include your name, client code, and client ID, and specify the updated payout frequency you wish to set."
-},
-{
-  "question": "How do I redeem mutual fund units?",
-  "answer": "Mutual fund redemptions can be processed online through platforms like FundzBazar, MF Central, or the Prudent Connect website. The redemption flow should follow the client's specific requirements and can be initiated via any of the supported portals based on convenience."
-},
-{
-  "question": "Where should I go for queries related to the EQ MF WhatsApp Group app?",
-  "answer": "Queries related to the EQ MF WhatsApp Group App should be handed over to the designated person in the team or the respective Authorized Partner handling such requests."
-},
-{
-  "question": "How do I convert my offline account to an online account?",
-  "answer": "To convert an account from offline to online, send an email from your registered email ID to kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com, and opsgondal@erigoindia.com. Include your name, client code, DP ID, and current and new locations. If it's a mutual fund folio, a conversion request must also be submitted from your registered email."
-},
-{
-  "question": "How do I convert my online account to an offline account?",
-  "answer": "To convert from online to offline, email your request from your registered email ID to kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com, and opsgondal@erigoindia.com. Mention your name, client code, DP ID, and the location shift. The process must be initiated from the registered email address."
-},
-{
-  "question": "How do I request a client master copy (CML)?",
-  "answer": "To obtain a Client Master Copy (CML), send an email from the official AP email ID to akshay.limbachia@kotak.com, roshani.panchal@kotak.com, and opsgondal@erigoindia.com. Include the subject 'CLIENT MASTER COPY (CML) REQUIRE' along with the client's name, code, and ID. You may also follow up with Bhumika Mam at Kotak for processing."
-},
-{
-  "question": "How can I request a Client Club change?",
-  "answer": "Client Club change requests should be directed to the designated Authorized Partner or concerned person handling such changes."
-},
-{
-  "question": "How do I request a reduction in interest for my equity account?",
-  "answer": "To request a reduction in interest, send an email from the official AP email ID to akshay.limbachia@kotak.com, roshani.panchal@kotak.com, and opsgondal@erigoindia.com. Ensure the email follows the required format and includes all client details necessary for review."
-},
-{
-  "question": "How do I get a printed copy or receipt for an insurance policy?",
-  "answer": "Insurance policy print or receipt requests are handled case-by-case depending on the insurer. Once a request is received, the respective team will address the issue based on the specific platform and document availability."
-},
-{
-  "question": "How do I request an endorsement update on my insurance policy?",
-  "answer": "Endorsements to insurance policies—such as corrections or updates—are processed according to the insurer’s unique procedures. The request will be resolved based on the company involved and the nature of the endorsement needed."
-},
-{
-  "question": "How do I resolve a SIP deduction issue?",
-  "answer": "To resolve a SIP deduction issue, check for errors on the respective portal (FundzBazar, MF Central, or AMC portal). If an error is found, corrective actions can be initiated online to ensure SIP resumes properly."
-},
-{
-  "question": "How do I change the broker code for a mutual fund folio?",
-  "answer": "To change the broker code, fill out the Broker Code Change Form and submit it physically along with the relevant mutual fund folio details. This is a manual process and must be carried out through the appropriate channel designated by the AMC or intermediary."
-},
-{
-  "question": "How can I initiate an STP (Systematic Transfer Plan) for mutual funds?",
-  "answer": "You can initiate an STP either online via FundzBazar or by submitting a physical STP form to the respective AMC. The process allows automatic transfer of funds from one scheme to another at regular intervals based on the investor’s preference."
-},
-{
-  "question": "How do I change my bank mandate for mutual fund transactions?",
-  "answer": "To change your bank mandate, add the new bank account online and get it activated. Once active, initiate a mandate request for the same bank. The process must be completed either through your mutual fund portal or an intermediary like FundzBazar."
-},
-{
-  "question": "How do I stop an SIP (Systematic Investment Plan)?",
-  "answer": "You can stop an SIP by submitting the SIP Stop form physically or by placing a stop request online via FundzBazar, CAMS, or MF Central. Choose the most convenient portal based on where your SIP is registered to ensure proper deactivation."
-},
-{
-  "question": "How do I add or change a nominee in my mutual fund or equity account?",
-  "answer": "Nominee addition or changes can be done online by logging into your account or offline by submitting the Nominee Change Form. For equity accounts, submit the form to Kotak physically. For mutual funds, updates can be made through FundzBazar or MF Central. The processing time is typically 2–3 business days."
-},
-{
-  "question": "How do I file an insurance claim?",
-  "answer": "To file an insurance claim, inform the insurer of the claim intent and send all the required documents to the designated address. The process varies slightly depending on the insurer, so make sure to check their specific guidelines before submission."
-},
-{
-  "question": "How do I switch mutual fund schemes?",
-  "answer": "A fund switch can be done either online via FundzBazar or by submitting a physical switch form. Choose the source and target schemes and follow the platform's instructions to complete the switch process."
-},
-{
-  "question": "How do I initiate a Systematic Withdrawal Plan (SWP) in mutual funds?",
-  "answer": "You can initiate an SWP online through FundzBazar or by filling out the SWP form and submitting it physically to PRUDENT. This allows a fixed amount to be withdrawn periodically from your mutual fund investment as per your instructions."
-},
-{
-  "question": "How do I log in to my mutual fund account?",
-  "answer": "Mutual fund logins can be managed online through platforms like FundzBazar. In case of cheque-based SIP or lump sum transactions, physical submission may be required via platforms such as Prudent. Login issues are typically handled on a case-by-case basis depending on the client query."
-},
-{
-  "question": "How do I complete mutual fund KYC online?",
-  "answer": "To complete your KYC for mutual funds online, first open an account on FundzBazar. If your KYC is pending or fresh, it can be completed directly through the platform during account opening by following the eKYC process."
-},
-{
-  "question": "How do I submit a commodity pledge request?",
-  "answer": "To submit a commodity pledge request, send an email from the official AP email ID to bhawana.khot@kotak.com, atulr.yadav@kotak.com, and JULIJETHVA@erigoindia.com with the subject line 'Please approve pledge request (CLIENT CODE) and EPG No'. Attach the pledge creation receipt with your email."
-},
-{
-  "question": "How do I withdraw stocks in case of emergency?",
-  "answer": "To initiate an emergency stock withdrawal, send an email from the official AP email ID to bhawana.khot@kotak.com, atulr.yadav@kotak.com, and JULIJETHVA@erigoindia.com with the subject 'Withdrawal Process Emergency (CLIENT CODE)'. Make sure to attach the pledge creation receipt for validation."
-},
-{
-  "question": "How do I request an instruction slip for commodities?",
-  "answer": "To request a commodity instruction slip, email bhawana.khot@kotak.com, atulr.yadav@kotak.com, and JULIJETHVA@erigoindia.com from the official AP email ID with the subject 'Please approve pledge request (CLIENT CODE) and EPG No'. Include the pledge creation receipt as an attachment."
-},
-{
-  "question": "How do I raise an API request for equity services?",
-  "answer": "API requests for equity services are handled internally. Submit your API request through the appropriate technical support channel or service form as per internal procedure. Reach out to the tech team if you're unsure where to start."
-},
-{
-  "question": "How do I submit a request for ODIN activation?",
-  "answer": "To activate ODIN, fill out the ODIN activation form and all relevant annexures. Submit them physically along with dealer documentation to the Kotak office for processing."
-},
-{
-  "question": "How do I activate a CCRL account for commodities?",
-  "answer": "To activate a CCRL (Clearing Corporation of India Ltd) account, complete and submit the required physical forms as per Kotak’s procedure. This process must be handled manually with all documentation provided in hard copy."
-},
-{
-  "question": "How do I activate a NERL account?",
-  "answer": "NERL (National E-Repository Limited) account activation is a physical process. Submit the required activation documents in hard copy to Kotak as per the standard procedure for commodities."
-},
-{
-  "question": "How do I intimate an insurance claim?",
-  "answer": "To intimate an insurance claim, send an email to the insurer using the email address provided in the client’s policy. Mention the policy number and basic details about the claim for further assistance."
-},
-{
-  "question": "How do I resolve a mutual fund credit issue?",
-  "answer": "If you're facing a mutual fund credit issue, contact the PRUDENT back office or use the appropriate portal to follow up on the transaction. You may also call PRUDENT directly to verify the status of fund credit or discrepancies."
-},
-{
-  "question": "How do I convert physical shares to demat format?",
-  "answer": "To convert physical shares into demat form, fill out the Dematerialization Request Form (DRF) and submit it along with the original share certificates to Kotak or your DP. The process is manual and typically involves verification by the RTA and depository."
-},
-{
-  "question": "How do I request a mutual fund statement of account?",
-  "answer": "Mutual fund statements can be accessed anytime via the online portfolio section of the FundzBazar or PRUDENT portal. You can also download portfolio valuation reports directly from the respective dashboard when required."
-},
-{
-  "question": "How do I activate SLBM (Stock Lending and Borrowing Mechanism)?",
-  "answer": "To activate SLBM, fill out the SLBM activation form, sign it, and submit it physically to Kotak for processing. Once submitted, the activation will be handled by the operations team."
-},
-{
-  "question": "How can I request a brokerage slab change for equity?",
-  "answer": "To request a brokerage change, email from your official AP ID to akshay.limbachia@kotak.com, roshani.panchal@kotak.com, and lalitkotadiya@erigoindia.com. Include the subject 'BROKERAGE REDUCE (CLIENT CODE)', and specify the client's name, code, and the requested brokerage slab as per format."
-},
-{
-  "question": "How do I pause my mutual fund SIP?",
-  "answer": "You can pause your SIP online through FundzBazar by logging into your account and selecting the SIP pause option from the active folio. The pause duration and restart parameters must be specified as per your needs."
-},
-{
-  "question": "How do I reactivate a dormant account in equity?",
-  "answer": "To reactivate a dormant account, fill out the Dormant Activation Form and upload it through Kotak CRM under the call type 'INCOME RANGE UPDATION AND DORMANT'. Update the income range (e.g., ₹5–10 lakh) and attach the form along with remarks. This process requires both CRM update and physical form submission."
-},
-{
-  "question": "How do I schedule a portfolio review call for equity or mutual funds?",
-  "answer": "To request a portfolio review, contact the designated research or advisory representative to set up a review call. The advisor will walk through your holdings and provide tailored investment insights based on your goals."
-},
-{
-  "question": "How do I activate a new segment in my trading account?",
-  "answer": "Segment activation can be done online by logging into your Kotak account. Go to Service > Service Request > Segment Activation, select the payout frequency, upload supporting documents (like ITR and 6-month bank statement), agree to the terms and conditions, and submit the request."
-},
-{
-  "question": "How do I request a new DIS book?",
-  "answer": "You can order a new DIS (Delivery Instruction Slip) book either online by logging into your account under Service > Service Request > DIS Request or submit a physical DIS Book Request Form to Kotak manually."
-},
-{
-  "question": "How do I update my bank details for equity or mutual fund accounts?",
-  "answer": "To update your bank in equity, log in to your account and go to Service > Service Request > Bank Updation, then add the new account details and save. For mutual funds, you can update it online via FundzBazar or MF Central, or submit a physical modification form with cancelled cheques of the old and new banks to PRUDENT."
-},
-{
-  "question": "How do I update my address in equity records?",
-  "answer": "To update your address in equity records, submit the C-KYC form to Kotak along with the following documents: a copy of your new Aadhaar card, a passport-size photograph, and your PAN card. The form and documents must be submitted physically to the designated branch for the change to take effect."
-},
-{
-  "question": "How do I update my email ID for equity and mutual fund accounts?",
-  "answer": "To update your email ID online, log in to your Kotak equity account and go to Service > Service Request > Contact Detail Updation. Enter the new email ID, complete e-signing with your Aadhaar, and submit the request. Alternatively, fill out Kotak’s email/mobile update form and submit it via CRM, or update your mutual fund email through FundzBazar or MF Central by submitting the offline modification form."
-},
-{
-  "question": "How do I update my mobile number for equity and mutual fund accounts?",
-  "answer": "To update your mobile number, log into your Kotak account and go to Service > Service Request > Contact Detail Updation. Fill in the new mobile number, sign the request via Aadhaar-based e-sign, and submit. Offline updates can also be done by submitting Kotak’s change form through CRM. For mutual funds, submit the mobile update request through FundzBazar or MF Central using the appropriate form."
-}
+[
+  {
+    "question": "How do I complete offline KYC for mutual funds?",
+    "answer": "To complete your MF KYC offline, you'll need a PAN card, e-Aadhaar card, passport-size photo, and a filled CKYC form from CAMS. Submit these along with the client’s mother's name, mobile number, and email ID, plus a cheque from an existing mutual fund investment mentioning your PAN. All documents must be physically submitted to PRUDENT, including signed copies of Aadhaar, PAN, and the cheque, with the form signed at two locations. તમારું MF KYC ઑફલાઇન પૂર્ણ કરવા માટે, તમને PAN કાર્ડ, e-Aadhaar કાર્ડ, પાસપોર્ટ સાઇઝનો ફોટો અને CAMS તરફથી મળતા CKYC ફોર્મની જરૂર પડશે. આ દસ્તાવેજો સાથે ક્લાયન્ટની માતાનું નામ, મોબાઇલ નંબર અને ઈમેઇલ ID અને કોઈ પહેલાંના મ્યુચ્યુઅલ ફંડ રોકાણની ચેક જે PAN દર્શાવે તે પણ સાથે જોડો. આ તમામ દસ્તાવેજો PRUDENTને શારીરિક રૂપે સબમિટ કરવા પડશે જેમાં Aadhaar, PAN અને ચેકના સાઇન કરેલા નકલ અને ફોર્મમાં બે જગ્યાએ સાઇન જરૂરી છે."
+  },
+  {
+    "question": "How do I update my address in mutual fund records?",
+    "answer": "To update your address for mutual funds, submit the CKYC form and the Common Modification Form filled with updated details. You'll need to attach copies of your PAN card, Aadhaar card, passport-size photo, and a Statement of Account (SOA) for the folio. Also include your mother's name, mobile number, and email ID, and a cheque from an existing mutual fund mentioning PAN. Submit everything physically to PRUDENT. મ્યુચ્યુઅલ ફંડમાં એડ્રેસ અપડેટ કરવા માટે, તમે CKYC ફોર્મ અને Common Modification Form નવા ડિટેઇલ્સ સાથે ભરીને સબમિટ કરો. તમારું PAN કાર્ડ, Aadhaar કાર્ડ, પાસપોર્ટ સાઇઝ ફોટો અને ફોલિયોના Statement of Account (SOA)ની નકલ જોડવી પડશે. માતાનું નામ, મોબાઇલ નંબર, ઈમેઇલ ID અને PAN દર્શાવતો એક મ્યુચ્યુઅલ ફંડ ચેક પણ જરૂરી છે. આ બધું PRUDENTને શારીરિક રીતે આપવું પડશે."
+  },
+  {
+    "question": "How can I request an equity payout?",
+    "answer": "To request an equity payout, clients can submit a request either online or offline. Once received, a mail is to be sent to KOTAK and initiate the payout process. No specific documents are required unless requested separately. equity payout માટે રીક્વેસ્ટ ઓનલાઇન કે ઑફલાઇન આપી શકાય છે. રીક્વેસ્ટ મળ્યા પછી, KOTAKને મેઇલ મોકલીને payout પ્રક્રિયા શરૂ કરવાની રહે છે. વિશિષ્ટ દસ્તાવેજોની જરૂર નહીં પડે, જો ખાસથી પૂછવામાં ન આવે તો."
+  },
+  {
+    "question": "How do I update my name in mutual fund records?",
+    "answer": "For a name change in mutual fund records, fill out the Common Modification Form with updated details and attach supporting documents including PAN card and Aadhaar card copies. Submit the completed set physically to PRUDENT. મ્યુચ્યુઅલ ફંડમાં નામ બદલવા માટે Common Modification Form અપડેટેડ વિગતો સાથે ભરો અને PAN કાર્ડ અને Aadhaar કાર્ડની નકલ સાથે જોડો. આ તમામ દસ્તાવેજો PRUDENTને શારીરિક રીતે સબમિટ કરો."
+  },
+  {
+    "question": "How do I submit an MF Fund Bazaar Mandate offline?",
+    "answer": "To submit an MF Fund Bazaar Mandate offline, fill out the Fund Bazaar Mandate form and sign it exactly as per the records with your bank. Submit the signed form in physical format to PRUDENT for processing. MF Fund Bazaar Mandate ઑફલાઇન સબમિટ કરવા માટે, ફોર્મ ભરીને તે તમારા બેન્કમાં જે રીતે સહી છે તે જ પ્રમાણે સાઇન કરો. આ સાઇન કરેલું ફોર્મ PRUDENTને શારીરિક રીતે સબમિટ કરો."
+  },
+  {
+    "question": "How do I resolve an EQ application issue?",
+    "answer": "EQ application issues are handled on a case-by-case basis. Since these are general problems without a fixed workflow, they are resolved at the time they occur by analyzing the specific situation and providing the appropriate solution. EQ એપ્લિકેશનની સમસ્યાઓ પરિસ્થિતિ અનુસાર હલ થાય છે. કારણ કે આ સામાન્ય સમસ્યાઓ છે અને નક્કી થયેલા વર્કફ્લો નહીં હોય, આ સમસ્યાઓ ત્યારે વખતેઉકેલાય છે અને તે સમયે યોગ્ય ઉકેલ આપવામાં આવે છે."
+  },
+  {
+    "question": "What should I do in case of an EQ DID error?",
+    "answer": "In the event of an EQ DID (Direct Inward Dialing) error, send an email to Kotak support at ksvr.support@kotak.com with the necessary client and error details for resolution. જો EQ DID (Direct Inward Dialing) ભૂલ થાય તો, ksvr.support@kotak.com પર જરૂરી ક્લાયન્ટ અને ભૂલ સંબંધિત વિગતવાર ઇમેઇલ મોકલો જેથી ઉકેલ લાવવામાં આવી શકે."
+  },
+  {
+    "question": "How do I resolve an EQ application login error?",
+    "answer": "EQ application login errors are treated as general issues. When such a problem arises, it is resolved immediately based on the client's input and the nature of the error, using standard troubleshooting practices. EQ એપ્લિકેશન લોગિન ભૂલ સામાન્ય પ્રશ્ન તરીકે જોવામાં આવે છે. આવા કેસમાં, ક્લાયન્ટ પાસેથી મળેલ માહિતી અને ભૂલના સ્વરૂપ આધારે તરત જ ટ્રબલશૂટ કરીને ઉકેલ આપવામાં આવે છે."
+  },
+  {
+    "question": "How do I update my signature for an equity account?",
+    "answer": "To update your signature for an equity account, you need to fill out both the CKYC form and the signature update form issued by Kotak. Required documents include a PAN card, e-Aadhaar card, and a passport-size photo. Additional details such as mother’s name, mobile number, and email ID must be included. All forms and documents must be submitted physically to Kotak for the update to be processed. equity account માટે સહી અપડેટ કરવા માટે, તમારે CKYC ફોર્મ અને Kotak તરફથી મળતું Signature Update Form ભરીવું પડશે. જરૂરી દસ્તાવેજોમાં PAN કાર્ડ, e-Aadhaar કાર્ડ અને પાસપોર્ટ સાઇઝ ફોટો સામેલ છે. સાથે માતાનું નામ, મોબાઇલ નંબર અને ઈમેઇલ ID પણ જણાવવી પડશે. બધા ફોર્મ અને દસ્તાવેજો Kotakને શારીરિક રીતે સબમિટ કરવાના રહેશે."
+  },
+  {
+    "question": "How do I add a new member to an insurance policy?",
+    "answer": "The member addition process varies across insurance companies. Each provider has its own procedure, so the appropriate steps will be determined and resolved when a request is received, based on the company's specific workflow.\nબીમા પોલિસીમાં નવા સભ્ય ઉમેરવાની પ્રક્રિયા દરેક કંપની માટે અલગ હોય છે. જેથી જ્યારે રીક્વેસ્ટ મળે ત્યારે તે કંપનીના પ્રક્રિયા અનુસાર ઉકેલ આપવામાં આવે છે."
+  },
+  {
+    "question": "How can I reclaim a rejected insurance claim?",
+    "answer": "Since the rejection and reclaim process differs for each insurer, the resolution is handled on a case-by-case basis. Typically, you will need to resubmit all required documents after rectifying the issue that caused the initial rejection. The exact steps depend on the rejection reason and the insurer's internal process.\nકારણ કે દરેક વિમો કંપની માટે નકારીકરણ અને પુનઃપ્રાપ્ત કરવાની પ્રક્રિયા અલગ હોય છે, આ ઉકેલ કેસ આધારિત હોય છે. સામાન્ય રીતે, તમારે તમામ જરૂરી દસ્તાવેજો ફરીથી સબમિટ કરવા પડશે અને જે કારણસર પહેલા દાવો નકારવામાં આવ્યો હતો તે સુધારવો પડશે. ચોક્કસ પગલાં વીમાદાતા પર આધાર રાખે છે."
+  },
+  {
+    "question": "How do I transfer stocks using the DIS process?",
+    "answer": "To transfer stocks via the DIS (Delivery Instruction Slip) process, fill out the DIS slip along with the Beneficiary Form and submit both to Kotak. The DIS book should also be sent to the broker from whom the stocks are being transferred. After submission, the back office (OPR team) will initiate the transfer procedure.\nDIS (Delivery Instruction Slip) પ્રક્રિયા મારફતે સ્ટોક ટ્રાન્સફર કરવા માટે, DIS સ્લિપ અને Beneficiary Form ભરીને બંને Kotakને સબમિટ કરો. DIS બુક પણ તે બ્રોકરને મોકલવી પડે જ્યાંથી સ્ટોક્સ ટ્રાન્સફર થવાનાં છે. સબમિશન પછી, બેક ઓફિસ (OPR ટીમ) ટ્રાન્સફર પ્રક્રિયા શરૂ કરશે."
+  },
+  {
+    "question": "How is a PCG portfolio review conducted?",
+    "answer": "A PCG (Private Client Group) portfolio review is managed by the research department and an authorized representative. They will assess the client’s holdings and provide insights or recommendations based on investment goals and current market performance.\nPCG (Private Client Group) પોર્ટફોલિયોની સમીક્ષા રિસર્ચ વિભાગ અને એક અધિકૃત પ્રતિનિધિ દ્વારા સંચાલિત થાય છે. તેઓ ક્લાયન્ટની હોળ્ડિંગ્સનું મૂલ્યાંકન કરીને રોકાણ ધ્યેયો અને વર્તમાન બજાર કામગીરીના આધારે સૂચનો આપે છે."
+  },
+  {
+    "question": "How do I resolve issues with trade confirmation messages for equity transactions?",
+    "answer": "In case of any discrepancies or issues with trade confirmation messages, an internal follow-up is conducted with the relevant Kotak back-office team. Specifically, the matter is directed to Akshaybhai or the concerned person in the operations team for verification and resolution.\nજો equity ટ્રેડ કન્ફર્મેશન મેસેજમાં કોઈ વિસંગતતા કે સમસ્યા હોય, તો સંબંધિત Kotak બેક ઓફિસ ટીમ સાથે આંતરિક અનુસંધાન કરવામાં આવે છે. ખાસ કરીને, આ મુદ્દો Akshaybhai અથવા ઓપરેશન્સ ટીમના સંબંધિત વ્યક્તિ સુધી પહોંચાડવામાં આવે છે."
+  },
+  {
+    "question": "How do I request deactivation of an equity segment in my trading account?",
+    "answer": "To deactivate a trading segment, send an email from your registered email ID to service.securities@kotak.com, opsgondal@erigoindia.com, and mayur.thaker@kotak.com. The email should contain a subject line such as 'Segment Deactivation Request' and include your name, client code, and DP ID, along with the specific segment you wish to deactivate.\nટ્રેડિંગ સેગમેન્ટ ડિએક્ટિવેટ કરવા માટે, તમારી રજિસ્ટર્ડ ઈમેઇલ IDમાંથી service.securities@kotak.com, opsgondal@erigoindia.com અને mayur.thaker@kotak.com પર ઈમેઇલ મોકલો. વિષયમાં 'Segment Deactivation Request' લખો અને તમારા નામ, ક્લાયન્ટ કોડ અને DP ID સાથે કોને ડિએક્ટિવેટ કરવું છે તે ઉલ્લેખ કરો."
+  },
+  {
+    "question": "How do I switch from Trade Free to a Normal brokerage account?",
+    "answer": "To switch from a Trade Free to a Normal brokerage account, send an email from your registered email ID to lalitkotadiya@erigoindia.com and opsgondal@erigoindia.com. Include your name, client code, and DP ID, with a request to apply the standard brokerage rate. It is also recommended to forward this request to akshay.limbachia@kotak.com, harshad.balolkar@kotak.com, and service.securities@kotak.com for additional processing.\nTrade Freeમાંથી Normal બ્રોકરેજ એકાઉન્ટમાં બદલી કરવા માટે, તમારી રજિસ્ટર્ડ ઈમેઇલ IDમાંથી lalitkotadiya@erigoindia.com અને opsgondal@erigoindia.com પર ઈમેઇલ મોકલવી. તમારું નામ, ક્લાયન્ટ કોડ અને DP ID ઉમેરો અને સ્ટાન્ડર્ડ બ્રોકરેજ લાગુ કરવાનો વિનંતી કરો. વધુ પ્રક્રિયા માટે આ રીક્વેસ્ટને akshay.limbachia@kotak.com, harshad.balolkar@kotak.com અને service.securities@kotak.comને ફોરવર્ડ કરવી ભલામણ થયેલ છે."
+  },
+  {
+    "question": "How do I check the status of my mutual fund transactions?",
+    "answer": "You can check the status of your mutual fund transactions via the FundzBazar or PRUDENT application. Notifications about updates will also be provided through the portal or via communication from the PRUDENT office.\nFundzBazar અથવા PRUDENT એપ્લિકેશન દ્વારા તમે તમારા મ્યુચ્યુઅલ ફંડ ટ્રાન્ઝેક્શન્સની સ્થિતિ જોઈ શકો છો. કોઈ પણ અપડેટ્સ અંગેની નોટિફિકેશન પોર્ટલ અથવા PRUDENT ઓફિસ તરફથી આપવામાં આવશે."
+  },
+  {
+    "question": "How do I update a relationship in my equity account?",
+    "answer": "To update a relationship (e.g., joint holder or guardian), fill out the relationship update form, get it signed by the client, and submit it physically to the Kotak branch office for processing.\nરિલેશનશીપ (જેમ કે સંયુક્ત ધારક અથવા વાલી) અપડેટ કરવા માટે રિલેશનશીપ અપડેટ ફોર્મ ભરીને ક્લાયન્ટ પાસેથી સાઇન કરાવીને Kotakની બ્રાન્ચ ઓફિસમાં શારીરિક રીતે સબમિટ કરો."
+  },
+  {
+    "question": "How can I get help with an insurance policy query?",
+    "answer": "Insurance policy queries are addressed based on the nature of the issue. If a policy copy is required, it will be requested through the appropriate platform. Submit your specific query so that it can be resolved with the right documentation and turnaround time.\nવિમો પોલિસી સંબંધિત પ્રશ્નો તેમની ખરેખરનો સ્વરૂપ આધારે ઉકેલવામાં આવે છે. જો પોલિસીની નકલ જરૂરી હોય, તો તે યોગ્ય પ્લેટફોર્મ મારફતે રીક્વેસ્ટ કરવી પડશે. તમારી ચોક્કસ ક્વેરી સબમિટ કરો જેથી યોગ્ય દસ્તાવેજો અને ટર્નઅરાઉન્ડ ટાઈમ સાથે ઉકેલ મળી શકે."
+  },
+  {
+    "question": "How do I close my equity and mutual fund account?",
+    "answer": "To close an account online, the client must log in and process the request through the designated portal. For offline closure, fill out the account closure form and submit it physically to the Kotak office. It typically takes 4–5 business days. Mutual fund accounts must show zero balance before closure, so ensure all holdings are redeemed prior to submission.\nઓનલાઇન એકાઉન્ટ બંધ કરવા માટે, ક્લાયન્ટે પોર્ટલમાં લોગિન કરીને રીક્વેસ્ટ મૂકવી પડે છે. ઑફલાઇન ક્લોઝર માટે, ક્લોઝર ફોર્મ ભરીને Kotak ઓફિસમાં શારીરિક રીતે સબમિટ કરો. સામાન્ય રીતે 4–5 બિઝનેસ દિવસો લાગે છે. મ્યુચ્યુઅલ ફંડ એકાઉન્ટ બંધ કરતા પહેલા બેલેન્સ નગણ્ય હોવું જોઈએ, એટલે કે તમામ હોલ્ડિંગ્સ રીડીમ કરવી ફરજિયાત છે."
+  },
+  {
+    "question": "How can I deactivate the Margin Trading Facility (MTF) on my equity account?",
+    "answer": "To deactivate MTF, send an email from your registered email address to service.securities@kotak.com, opsgondal@erigoindia.com, and mayur.thaker@kotak.com. Include your name, client code, and DP ID in the request and clearly mention the deactivation of MTF.\nMTF ડિએક્ટિવેટ કરવા માટે, તમારી રજિસ્ટર્ડ ઇમેઇલ IDમાંથી service.securities@kotak.com, opsgondal@erigoindia.com અને mayur.thaker@kotak.com પર ઇમેઇલ મોકલો. ઇમેઇલમાં તમારું નામ, ક્લાયન્ટ કોડ અને DP ID ઉમેરો અને સ્પષ્ટ રીતે MTF ડિએક્ટિવેશનનું ઉલ્લેખ કરો."
+  },
+  {
+    "question": "How do I revalidate a mutual fund payment after a bank change?",
+    "answer": "If a bank change has been made for a folio, and a cheque is received post-update, re-submit the cheque to the AMC along with the Revalidation Form. Submit both the new and old bank's cancelled cheques, along with the Common Transaction Form to complete the revalidation process.\nજો ફોલિયોમાં બેંક બદલાઈ હોય અને નવી અપડેટ પછી ચેક મળ્યો હોય, તો ચેકને AMCને ફરીથી સબમિટ કરો અને તેની સાથે Revalidation Form જોડો. નવી અને જૂની બેંકના રદ્દ કરેલા ચેક અને Common Transaction Form સાથે સબમિટ કરો જેથી રીવેલિડેશન પ્રક્રિયા પૂર્ણ થાય."
+  },
+  {
+    "question": "How do I submit a mutual fund FundzBazar mandate online?",
+    "answer": "You can submit the FundzBazar mandate online via the FundzBazar app, through your RM (Relationship Manager), or using your broker's banking portal. The payment can be completed using debit card or net banking.\nFundzBazar મેનડેટ ઓનલાઈન FundzBazar એપ, તમારા Relationship Manager અથવા બ્રોકરના બેંકિંગ પોર્ટલ મારફતે સબમિટ કરી શકાય છે. પેમેન્ટ ડેબિટ કાર્ડ અથવા નેટ બૅંકિંગ દ્વારા થઈ શકે છે."
+  },
+  {
+    "question": "How do I validate my MF KYC status?",
+    "answer": "If KYC is already registered, it must be verified via OTP-based eKYC using the client's registered email ID and mobile number. If Aadhaar was used, online OTP verification is preferred. If not possible, a physical validation process must be completed by submitting documents offline.\nજો KYC પહેલેથી જ રજિસ્ટર્ડ છે, તો તે ક્લાયન્ટના રજિસ્ટર્ડ ઇમેઇલ ID અને મોબાઇલ નંબરના આધાર પર OTP દ્વારા ચકાસવી પડશે. જો Aadhaar ઉપયોગમાં લેવાયું હોય, તો ઑનલાઇન OTP વેરિફિકેશન પસંદનીય છે. જો તે શક્ય ન હોય, તો શારીરિક વેરિફિકેશન માટે દસ્તાવેજો ઑફલાઇન સબમિટ કરવાં પડશે."
+  },
+  {
+    "question": "How is an equity brokerage reversal processed?",
+    "answer": "A brokerage reversal request must be handled by an authorized person only. If you are eligible and the case is valid, the authorized representative will initiate the reversal process on your behalf.\nબ્રોકરેજ રીવર્સલ રીક્વેસ્ટ માત્ર અધિકૃત વ્યક્તિ દ્વારા જ કરવામાં આવી શકે છે. જો તમે પાત્ર હો અને કેસ માન્ય હોય, તો અધિકૃત પ્રતિનિધિ તમારા માટે રીવર્સલ પ્રક્રિયા શરૂ કરશે."
+  },
+  {
+    "question": "How do I convert my minor account to a major account in equity and mutual funds?",
+    "answer": "To convert a minor account to a major account, close the existing minor account and open a new major account. Submit the Minor to Major conversion form, account opening nomination form, and KYC form. Also attach a cancelled cheque from the new major account holder’s bank account. Once documentation is complete, the transition process will be executed.\nમાઇનર એકાઉન્ટને મેજરમાં કન્વર્ટ કરવા માટે હાલનું માઇનર એકાઉન્ટ બંધ કરવું પડશે અને નવી મેજર એકાઉન્ટ ખોલવું પડશે. Minor to Major Conversion Form, Account Opening Nomination Form અને KYC Form સબમિટ કરો. મેજર હોલ્ડરના બેંક ખાતાનું રદ્દ ચેક પણ જોડો. દસ્તાવેજ પ્રક્રિયા પુરી થયા પછી કન્વર્ઝન શરૂ થાય છે."
+  },
+  {
+    "question": "How do I resolve issues with my demat position?",
+    "answer": "Demat position issues are treated as general queries. When reported, the support team will analyze the situation and provide a suitable solution based on the nature of the discrepancy.\nડીમેટ પોઝિશન સંબંધિત પ્રશ્નો સામાન્ય રીતે સામાન્ય ક્વેરી તરીકે લેવામાં આવે છે. જ્યારે આવા પ્રશ્નો રજૂ થાય, ત્યારે સપોર્ટ ટીમ પરિસ્થિતિનું વિશ્લેષણ કરે છે અને સમસ્યાના આધારે યોગ્ય ઉકેલ આપે છે."
+  },
+  {
+    "question": "How do I transfer stocks from another DP account?",
+    "answer": "To transfer stocks from another depository participant (DP) account, initiate the closure-cum-transfer process through the API channel. Submit the CML (Client Master List) copy of the new account along with the transfer request. The stocks will be transferred once the closure of the existing account is confirmed.\nબીજા ડિપોઝિટરી ભાગીદાર (DP) ખાતામાંથી સ્ટોક્સ ટ્રાન્સફર કરવા Closure Cum Transfer પ્રક્રિયા API ચેનલ મારફતે શરૂ કરો. નવી એકાઉન્ટના CML (Client Master List) ની નકલ અને ટ્રાન્સફર રીક્વેસ્ટ સબમિટ કરો. હાલનું ખાતું બંધ થાય પછી ટ્રાન્સફર પ્રક્રિયા થઈ જશે."
+  },
+  {
+    "question": "How do I activate the Margin Trading Facility (MTF) on my account?",
+    "answer": "To activate MTF online, log into the Kotak Securities mobile application and follow the activation process. Offline, send an email from your registered email ID to service.securities@kotak.com, opsgondal@erigoindia.com, and mayur.thaker@kotak.com. Include your name, client code, DP ID (IN300214), and client ID. State that you agree to the terms and conditions mentioned at https://www.kotaksecurities.com/whatweoffer/PDF/MTFActivation.pdf.\nMTF ઓનલાઈન સક્રિય કરવા માટે Kotak Securities મોબાઇલ એપમાં લોગિન કરીનેActivation પ્રક્રિયા અનુસરો. ઑફલાઇન માટે તમારી રજિસ્ટર્ડ ઇમેઇલ ID પરથી service.securities@kotak.com, opsgondal@erigoindia.com અને mayur.thaker@kotak.com પર ઇમેઇલ મોકલો. તમારું નામ, ક્લાયન્ટ કોડ, DP ID (IN300214) અને ક્લાયન્ટ ID ઉમેરો અને https://www.kotaksecurities.com/whatweoffer/PDF/MTFActivation.pdfમાં જણાવેલ શરતો સ્વીકારવાનું લખો."
+  },
+  {
+    "question": "How do I upload a recording to Kotak CRM?",
+    "answer": "To upload a recording in Kotak CRM: go to 'NEW QUERY', search and select the client code, choose product 'DUMMY_KSEC', set 'CALL TYPE' as 'TRADING RELATED', and 'SUB CALL TYPE' as 'PRE-TRADE CONFIRMATION'. Set source as 'BRANCH', SRNATURE as 'FTR', add remarks if any, attach the recording document, and click 'SAVE'. This will generate a query ID.\nKotak CRMમાં રેકોર્ડિંગ અપલોડ કરવા માટે: 'NEW QUERY'માં જાઓ, ક્લાયન્ટ કોડ શોધી અને પસંદ કરો, પ્રોડક્ટ 'DUMMY_KSEC' પસંદ કરો, 'CALL TYPE' તરીકે 'TRADING RELATED' પસંદ કરો, અને 'SUB CALL TYPE' 'PRE-TRADE CONFIRMATION' તરીકે સેટ કરો. 'SOURCE' તરીકે 'BRANCH', SRNATURE 'FTR', રીમાર્ક્સ ઉમેરો (જોઈએ તો), રેકોર્ડિંગ ડોક્યુમેન્ટ એટૅચ કરો અને 'SAVE' કરો. આ દ્વારા ક્વેરી ID જનરેટ થશે."
+  },
+  {
+    "question": "How do I activate the youth plan on my equity account?",
+    "answer": "To activate the Trade Free Youth Plan, send an email from your registered email ID to lalitkotadiya@erigoindia.com and opsgondal@erigoindia.com. Mention that you're facing an upgrade error on the application and provide your name, client code, and client ID.\nTrade Free Youth Plan સક્રિય કરવા માટે, તમારી રજિસ્ટર્ડ ઇમેઇલ IDમાંથી lalitkotadiya@erigoindia.com અને opsgondal@erigoindia.com પર ઇમેઇલ મોકલો. ઇમેઇલમાં ઉલ્લેખ કરો કે એપ્લિકેશનમાં અપગ્રેડ એરર આવી રહ્યો છે અને તમારું નામ, ક્લાયન્ટ કોડ અને ક્લાયન્ટ ID ઉમેરો."
+  },
+  {
+    "question": "How do I change the SIP date for a mutual fund?",
+    "answer": "To change your SIP date, first stop the existing SIP and then initiate a new SIP with the updated date. This can typically be done through the FundzBazar platform or via your AMC’s official channels.\nSIP તારીખ બદલવા માટે, પહેલા હાજર SIP બંધ કરો અને પછી નવી તારીખ સાથે નવી SIP શરૂ કરો. સામાન્ય રીતે FundzBazar પ્લેટફોર્મ અથવા તમારા AMCના અધિકૃત ચેનલ દ્વારા આ પ્રક્રિયા થઈ શકે છે."
+  },
+  {
+    "question": "How do I change the location on my equity account?",
+    "answer": "Location change requests for equity accounts must be submitted through an authorized person. The AP (Authorized Person) should initiate the process and communicate the changes to Kotak via official email.\nequity એકાઉન્ટ માટે સ્થાન બદલવાની વિનંતી માત્ર અધિકૃત વ્યક્તિ દ્વારા જ કરી શકાય છે. AP (Authorized Person)એ આ પ્રક્રિયા શરૂ કરીને Kotakને અધિકૃત ઇમેઇલ દ્વારા બદલાવની માહિતી આપવી જોઈએ."
+  },
+  {
+    "question": "How do I convert an equity account to Kotak Neo?",
+    "answer": "For online clients, the conversion to Kotak Neo can be handled directly. For offline clients, send an email with the trading code, DP ID, client name, and current location to Akshaybhai. The consolidated list of details should be shared to initiate the conversion process.\nઓનલાઇન ક્લાયન્ટ માટે Kotak Neo કન્વર્ઝન સીધું પોર્ટલ પરથી થઈ શકે છે. ઑફલાઇન ક્લાયન્ટ માટે, ટ્રેડિંગ કોડ, DP ID, ક્લાયન્ટ નામ અને હાલનું સ્થાન લખીને આ તમામ વિગતો Akshaybhaiને ઇમેઇલમાં મોકલવી."
+  },
+  {
+    "question": "How do I resolve an equity dividend issue?",
+    "answer": "To resolve any issues related to equity dividend credit or discrepancies, the matter must be discussed with the Registrar and Transfer Agent (RTA). Once the problem is identified, the concerned team will coordinate with the RTA to get the issue resolved for the client.\nequity ડિવિડન્ડ ક્રેડિટ અથવા વિસંગતતા સંબંધિત કોઈ સમસ્યા હોય તો તેને Registrar and Transfer Agent (RTA) સાથે ચર્ચા કરીને ઉકેલવામાં આવે છે. મુશ્કેલી ઓળખાઈ જાય પછી સંબંધિત ટીમ ક્લાયન્ટ માટે ઉકેલ લાવવા માટે RTA સાથે સહકાર કરે છે."
+  },
+  {
+    "question": "How can I retrieve a contract note for equity transactions?",
+    "answer": "Contract notes and bills can be downloaded from Kotak BOSS by navigating to REPORT > DOCUMENTS > Digitally Signed Contract Notes and Bill. Enter the client code, select the relevant date range, and click SUBMIT. This access is available through the Authorized Person’s (AP's) login.\nકોન્ટ્રેક્ટ નોટ્સ અને બિલ Kotak BOSS પરથી ડાઉનલોડ કરી શકાય છે. REPORT > DOCUMENTS > Digitally Signed Contract Notes and Bill વિભાગમાં જઈને ક્લાયન્ટ કોડ દાખલ કરો, યોગ્ય તારીખ પસંદ કરો અને SUBMIT કરો. આ એક્સેસ Authorized Person (AP)ના લોગિન દ્વારા ઉપલબ્ધ છે."
+  },
+  {
+    "question": "How do I activate the Trinity account for equity?",
+    "answer": "To activate the Trinity account, the activation form and CRN (Customer Reference Number) profile must be completed and submitted to Kotak. The client’s signature is required on the form, and the authorized partner (AP) must send it to Kotak for further processing.\nTrinity એકાઉન્ટ સક્રિય કરવા માટે Activation Form અને CRN (Customer Reference Number) પ્રોફાઇલ પૂરી કરીને Kotakને સબમિટ કરો. ક્લાયન્ટની સહી ફોર્મ પર જરૂરી છે અને APએ આ ફોર્મ Kotakને મોકલવો પડશે."
+  },
+  {
+    "question": "How do I initiate equity account closure with transfer of holdings?",
+    "answer": "To perform an equity account closure with transfer, initiate the Closure Cum Transfer process via API. Fill out the other DP’s transfer form and attach the Client Master List (CML) copy of the receiving account. Submit all documents for approval and processing.\nequity એકાઉન્ટ ક્લોઝર સાથે ટ્રાન્સફર માટે Closure Cum Transfer પ્રક્રિયા API મારફતે શરૂ કરો. બીજાં DPના ટ્રાન્સફર ફોર્મ ભરી અને પ્રાપ્ત કરનારા એકાઉન્ટના CML (Client Master List) સાથે જોડો. તમામ દસ્તાવેજો મંજૂરી માટે સબમિટ કરો."
+  },
+  {
+    "question": "How do I link PAN and Aadhaar for mutual fund accounts?",
+    "answer": "Linking PAN and Aadhaar is a mandatory client-side process. The client must be informed of this requirement and guided to complete the linking themselves through the official portal. Timely follow-up should be done to ensure compliance.\nPAN અને Aadhaar લિંક કરવું ક્લાયન્ટ સાઇડથી ફરજિયાત છે. ક્લાયન્ટને આ જરૂરીયાત વિશે જાણ કરવી અને તેમને અધિકૃત પોર્ટલ દ્વારા લિંકિંગ પ્રક્રિયા પૂર્ણ કરવા માર્ગદર્શન આપવું. સમયસર અનુસંધાન કરવું જરૂરી છે."
+  },
+  {
+    "question": "How do I switch my contract note from physical to digital mode?",
+    "answer": "To switch your contract notes from physical to digital delivery, send an email from your registered email ID to kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com, and opsgondal@erigoindia.com. Include your name, client code, and client ID in the message and mention that you wish to receive contract notes in digital format going forward.\ncontract note ને physical માંથી digital મોડમાં બદલવા માટે, તમારી રજિસ્ટર્ડ ઇમેઇલ ID પરથી kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com અને opsgondal@erigoindia.com પર ઇમેઇલ મોકલો. ઇમેઇલમાં તમારું નામ, ક્લાયન્ટ કોડ અને ક્લાયન્ટ ID ઉમેરો અને લખો કે હવે પછી contract note ડિજિટલ ફોર્મેટમાં મેળવવા માંગો છો."
+  },
+  {
+    "question": "Who can confirm DP charges as per NSDL guidelines?",
+    "answer": "The confirmation of DP (Depository Participant) charges as per NSDL must be handled by an authorized person. Reach out to them for verification or clarification of applicable charges.\nNSDL અનુસાર DP (Depository Participant) ચાર્જીસની પૃષ્ઠિભૂતિ માત્ર અધિકૃત વ્યક્તિ દ્વારા કરી શકાય છે. લાગુ ચાર્જીસની ચકાસણી કે સ્પષ્ટીકરણ માટે તેમને સંપર્ક કરો."
+  },
+  {
+    "question": "How do I get a Ledger Balance Confirmation (LBC)?",
+    "answer": "Ledger Balance Confirmation can be processed online or offline. Online confirmations are handled via the CRM system. For offline mode, go to 'NEW QUERY' in Kotak CRM, search and select the client code, choose 'OUTBOUND PROCESS-NEW' as the product, and set the call type to 'LBC'. Select 'CONNECTED-EMAIL TO CLIENT' as the sub call type, attach the LBC document, and save the entry to generate the query.\nLBC ઓનલાઈન કે ઑફલાઇન પ્રક્રિયા દ્વારા મેળવી શકાય છે. ઓનલાઈન માટે CRM સિસ્ટમમાં હેન્ડલ થાય છે. ઑફલાઇન માટે Kotak CRMમાં 'NEW QUERY' ઓપન કરો, ક્લાયન્ટ કોડ શોધી અને પસંદ કરો, 'OUTBOUND PROCESS-NEW' તરીકે પ્રોડક્ટ પસંદ કરો, CALL TYPE તરીકે 'LBC', SUB CALL TYPE તરીકે 'CONNECTED-EMAIL TO CLIENT', LBC દસ્તાવેજ એટૅચ કરો અને એન્ટ્રી 'SAVE' કરો જેથી ક્વેરી જનરેટ થાય."
+  },
+  {
+    "question": "How do I apply for an IPO online or offline?",
+    "answer": "For online IPO application, open the IPO link, log into the portal, search and select the client code, choose the IPO name and category (Retail/HNI), enter your UPI ID, review bid details, accept terms and conditions, and confirm the order. For offline application, use the IPO app to enter data, print the selected client details, and submit the physical form with the selected IPO name.\nઓનલાઇન IPO અરજી માટે, IPO લિંક ઓપન કરો, પોર્ટલમાં લોગિન કરો, ક્લાયન્ટ કોડ પસંદ કરો, IPO નામ અને કેટેગરી (Retail/HNI) પસંદ કરો, તમારું UPI ID દાખલ કરો, બિડ વિગતો ચકાસો, નિયમો અને શરતો માની લો અને ઑર્ડર કન્ફર્મ કરો. ઑફલાઇન માટે, IPO એપ્લિકેશનમાં માહિતી દાખલ કરો, પસંદ કરેલા ક્લાયન્ટની વિગતો પ્રિન્ટ કરો અને IPO નામની સાથે physical form સબમિટ કરો."
+  },
+  {
+    "question": "How do I update my income information in equity records?",
+    "answer": "To update your income information, fill out the income declaration form and submit it physically to the Kotak office. Alternatively, online clients can log in to their account and update their income details through the service request section.\nઆવકની માહિતી અપડેટ કરવા માટે, Income Declaration Form ભરીને Kotak ઓફિસમાં શારીરિક રીતે સબમિટ કરો. વૈકલ્પિક રીતે, ઑનલાઇન ક્લાયન્ટ પોતાનું એકાઉન્ટ લોગિન કરીને Service Request વિભાગમાં જઈને આવકની વિગતો ઑનલાઇન અપડેટ કરી શકે છે."
+  },
+  {
+    "question": "How do I convert my account to the Trade Free Plan?",
+    "answer": "To upgrade to the Trade Free Plan, send an email from your registered email ID to lalitkotadiya@erigoindia.com and opsgondal@erigoindia.com. Include your name, client code, and client ID in the request. If you're facing errors while trying to upgrade via the app, mention that in your message for quicker resolution.\nTrade Free પ્લાનમાં અપગ્રેડ કરવા માટે, તમારી રજિસ્ટર્ડ ઇમેઇલ IDમાંથી lalitkotadiya@erigoindia.com અને opsgondal@erigoindia.com પર ઇમેઇલ મોકલો. તમારું નામ, ક્લાયન્ટ કોડ અને ક્લાયન્ટ ID ઉમેરો. જો એપ્લિકેશનમાં અપગ્રેડ દરમિયાન એરર આવે છે, તો તે પણ લખો જેથી ઝડપથી ઉકેલવામાં આવી શકે."
+  },
+  {
+    "question": "How do I update my name in equity records?",
+    "answer": "To update your name, submit the name change form along with updated KYC documents that reflect your new name. Also, fill and submit the CKYC form to Kotak physically for the change to take effect.\nનામ અપડેટ કરવા માટે Name Change Form અને અપડેટ થયેલ KYC દસ્તાવેજો જે નવી ઓળખ દર્શાવે છે તે સાથે CKYC Form ભરીને Kotakને શારીરિક રીતે સબમિટ કરો."
+  },
+  {
+    "question": "How do I update demat account authority details?",
+    "answer": "If the existing authorized person differs from the one you wish to assign, send an email from your registered email ID. The new authorized person must submit their PAN card, Aadhaar card, and a passport-size photo. In-person verification and submission of forms may be required to complete the authority update process.\nજો હાલનો અધિકૃત વ્યક્તિ જુદો છે અને નવા વ્યક્તિને નિયુક્ત કરવો હોય, તો નવી અધિકૃત વ્યક્તિએ પોતાનું PAN કાર્ડ, Aadhaar કાર્ડ અને પાસપોર્ટ સાઇઝ ફોટો સબમિટ કરવું પડશે. In-person verification અને ફોર્મ્સની સબમિશન જરૂરી થઈ શકે છે."
+  },
+  {
+    "question": "How do I request a demo for a general application?",
+    "answer": "General application demos are provided based on individual queries. Once a request is received, the demo will be arranged accordingly. Ensure the application is installed, and credentials like email ID and password are ready to proceed with the demo.\nજનરલ એપ્લિકેશન માટે ડેમો વ્યક્તિગત રીક્વેસ્ટ આધારે આપવામાં આવે છે. રીક્વેસ્ટ મળ્યા પછી, ડેમો શેડ્યૂલ થાય છે. ખાતરી કરો કે એપ્લિકેશન ઇન્સ્ટોલ છે અને ઈમેઇલ ID અને પાસવર્ડ જેવી પ્રવેશ માહિતી તૈયાર છે."
+  },
+  {
+    "question": "How do I change my auto payout schedule?",
+    "answer": "To change your equity auto payout schedule (e.g., from daily to quarterly), send an email from your registered email ID to kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com, and opsgondal@erigoindia.com. Include your name, client code, and client ID, and specify the updated payout frequency you wish to set.\nAuto payout શેડ્યૂલ (દૈનિકથી ત્રૈમાસિક, વગેરે) બદલવા માટે, તમારી રજિસ્ટર્ડ ઇમેઇલ ID પરથી kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com અને opsgondal@erigoindia.com પર ઈમેઇલ મોકલો. તમારું નામ, ક્લાયન્ટ કોડ અને ક્લાયન્ટ ID ઉમેરો અને નવું ચૂકવણી ફ્રિક્વન્સી સ્પષ્ટ કરો."
+  },
+  {
+    "question": "How do I redeem mutual fund units?",
+    "answer": "Mutual fund redemptions can be processed online through platforms like FundzBazar, MF Central, or the Prudent Connect website. The redemption flow should follow the client's specific requirements and can be initiated via any of the supported portals based on convenience.\nમ્યુચ્યુઅલ ફંડ રીડીમ ઓનલાઇન કરી શકાય છે જેમ કે FundzBazar, MF Central, અથવા Prudent Connect વેબસાઈટ દ્વારા. રીડીમ પ્રક્રિયા ક્લાયન્ટની જરૂરિયાત અનુસાર યોગ્ય પોર્ટલ મારફતે શરૂ કરો."
+  },
+  {
+    "question": "Where should I go for queries related to the EQ MF WhatsApp Group app?",
+    "answer": "Queries related to the EQ MF WhatsApp Group App should be handed over to the designated person in the team or the respective Authorized Partner handling such requests.\nEQ MF WhatsApp Group એપ સંબંધિત પ્રશ્નો ટીમના નિમણૂકધારક વ્યક્તિ અથવા આવાં રીક્વેસ્ટ હેન્ડલ કરતા સંબંધિત Authorized Partnerને ફોરવર્ડ કરવાં જોઈએ."
+  },
+  {
+    "question": "How do I convert my offline account to an online account?",
+    "answer": "To convert an account from offline to online, send an email from your registered email ID to kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com, and opsgondal@erigoindia.com. Include your name, client code, DP ID, and current and new locations. If it's a mutual fund folio, a conversion request must also be submitted from your registered email.\nએકાઉન્ટ ઑફલાઇનમાંથી ઑનલાઇન કન્વર્ટ કરવા માટે, તમારી રજિસ્ટર્ડ ઇમેઇલ ID પરથી kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com અને opsgondal@erigoindia.com પર ઇમેઇલ મોકલો. તમારું નામ, ક્લાયન્ટ કોડ, DP ID અને હાલનું અને નવું સ્થાન લખો. જો મ્યુચ્યુઅલ ફંડ ફોલિયો છે, તો એ માટે પણ કન્વર્ઝન રીક્વેસ્ટ રજૂ કરો."
+  },
+  {
+    "question": "How do I convert my online account to an offline account?",
+    "answer": "To convert from online to offline, email your request from your registered email ID to kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com, and opsgondal@erigoindia.com. Mention your name, client code, DP ID, and the location shift. The process must be initiated from the registered email address.\nઓનલાઇનમાંથી ઑફલાઇન કન્વર્સન માટે, તમારી રજિસ્ટર્ડ ઇમેઇલ ID પરથી kashmira.modi@kotak.com, tulsi.buddhdev@kotak.com અને opsgondal@erigoindia.com પર રીક્વેસ્ટ મોકલો. તમારું નામ, ક્લાયન્ટ કોડ, DP ID અને સ્થાનનો ઉલ્લેખ કરો. પ્રોસેસ રજિસ્ટર્ડ ઇમેઇલથી જ થવી જોઈએ."
+  },
+  {
+    "question": "How do I request a client master copy (CML)?",
+    "answer": "To obtain a Client Master Copy (CML), send an email from the official AP email ID to akshay.limbachia@kotak.com, roshani.panchal@kotak.com, and opsgondal@erigoindia.com. Include the subject 'CLIENT MASTER COPY (CML) REQUIRE' along with the client's name, code, and ID. You may also follow up with Bhumika Mam at Kotak for processing.\nClient Master Copy (CML) મેળવવા માટે અધિકૃત AP ઇમેઇલ IDમાંથી akshay.limbachia@kotak.com, roshani.panchal@kotak.com અને opsgondal@erigoindia.com પર 'CLIENT MASTER COPY (CML) REQUIRE' વિષય સાથે ઈમેઇલ મોકલો. ક્લાયન્ટનું નામ, કોડ અને ID ઉમેરો. પરિપત્રી માટે Bhumika Mam નો સંપર્ક પણ કરી શકો."
+  },
+  {
+    "question": "How can I request a Client Club change?",
+    "answer": "Client Club change requests should be directed to the designated Authorized Partner or concerned person handling such changes.\nClient Club બદલવાની રીક્વેસ્ટ સંબંધિત Authorized Partner અથવા જે વ્યક્તિ આવા બદલાવ હેન્ડલ કરે છે તેને જ આપવામાં આવવી જોઈએ."
+  },
+  {
+    "question": "How do I request a reduction in interest for my equity account?",
+    "answer": "To request a reduction in interest, send an email from the official AP email ID to akshay.limbachia@kotak.com, roshani.panchal@kotak.com, and opsgondal@erigoindia.com. Ensure the email follows the required format and includes all client details necessary for review.\nવ્યાજ ઘટાડવા માટે અધિકૃત AP ઇમેઇલ IDમાંથી akshay.limbachia@kotak.com, roshani.panchal@kotak.com અને opsgondal@erigoindia.com પર જરૂરી ક્લાયન્ટ વિગતો સાથે યોગ્ય ફોર્મેટમાં રીક્વેસ્ટ મોકલવી."
+  },
+  {
+    "question": "How do I get a printed copy or receipt for an insurance policy?",
+    "answer": "Insurance policy print or receipt requests are handled case-by-case depending on the insurer. Once a request is received, the respective team will address the issue based on the specific platform and document availability.\nવિમો પોલિસી માટે છાપેલી નકલ અથવા રસીદની રીક્વેસ્ટ વિમો કંપની પર આધાર રાખે છે. રીક્વેસ્ટ મળ્યા પછી, સંબંધિત ટીમ પ્લેટફોર્મ અને દસ્તાવેજોની ઉપલબ્ધતા પ્રમાણે કાર્યવાહી કરે છે."
+  },
+  {
+    "question": "How do I request an endorsement update on my insurance policy?",
+    "answer": "Endorsements to insurance policies—such as corrections or updates—are processed according to the insurer’s unique procedures. The request will be resolved based on the company involved and the nature of the endorsement needed.\nપોલિસીમાં સુધારા કે સુધારણા (endorsement) કંપનીના નિયમો અનુસાર કરવામાં આવે છે. સંબંધિત કંપની અને endorsement પ્રકાર આધારે રીક્વેસ્ટ હેન્ડલ થશે."
+  },
+  {
+    "question": "How do I resolve a SIP deduction issue?",
+    "answer": "To resolve a SIP deduction issue, check for errors on the respective portal (FundzBazar, MF Central, or AMC portal). If an error is found, corrective actions can be initiated online to ensure SIP resumes properly.\nSIP ડિડક્શન સમસ્યા હોય તો તે FundzBazar, MF Central અથવા AMC પોર્ટલ પર તપાસો. ભૂલ જણાઈ આવે તો ઑનલાઇન સુધારા કર્યા પછી SIP પુનઃપ્રારંભ કરવામાં આવશે."
+  },
+  {
+    "question": "How do I change the broker code for a mutual fund folio?",
+    "answer": "To change the broker code, fill out the Broker Code Change Form and submit it physically along with the relevant mutual fund folio details. This is a manual process and must be carried out through the appropriate channel designated by the AMC or intermediary.\nબ્રોકર કોડ બદલવા માટે Broker Code Change Form ભરીને સંબંધિત ફોલિયો વિગતો સાથે શારીરિક રીતે સબમિટ કરો. આ પ્રક્રિયા મેન્યુઅલ છે અને AMC અથવા ઇન્ટરમિડીયરી દ્વારા કરાઈ છે."
+  },
+  {
+    "question": "How can I initiate an STP (Systematic Transfer Plan) for mutual funds?",
+    "answer": "You can initiate an STP either online via FundzBazar or by submitting a physical STP form to the respective AMC. The process allows automatic transfer of funds from one scheme to another at regular intervals based on the investor’s preference.\nSTP ઓનલાઈન FundzBazar દ્વારા શરૂ કરી શકાય છે અથવા શારીરિક STP ફોર્મ AMCને સબમિટ કરીને પણ શરૂ કરી શકાય છે. આ પ્રક્રિયા રોકાણકર્તા દ્વારા પસંદ કરેલી તારીખે એક સ્કીમમાંથી બીજી સ્કીમમાં નિયમિત રૂપે ફંડ ટ્રાન્સફર કરે છે."
+  },
+  {
+    "question": "How do I change my bank mandate for mutual fund transactions?",
+    "answer": "To change your bank mandate, add the new bank account online and get it activated. Once active, initiate a mandate request for the same bank. The process must be completed either through your mutual fund portal or an intermediary like FundzBazar.\nબેંક મેનડેટ બદલવા માટે પહેલાં નવી બેંક ઑનલાઇન ઉમેરો અને તેને સક્રિય કરો. ત્યારબાદ એ જ બેંક માટે મેનડેટ રીક્વેસ્ટ શરૂ કરો. આ પ્રક્રિયા તમારું મ્યુચ્યુઅલ ફંડ પોર્ટલ કે FundzBazar જેવા ઇન્ટરમિડીયરી દ્વારા પૂર્ણ કરી શકાય છે."
+  },
+  {
+    "question": "How do I stop an SIP (Systematic Investment Plan)?",
+    "answer": "You can stop an SIP by submitting the SIP Stop form physically or by placing a stop request online via FundzBazar, CAMS, or MF Central. Choose the most convenient portal based on where your SIP is registered to ensure proper deactivation.\nSIP રોકવા માટે SIP Stop Form શારીરિક રીતે સબમિટ કરો અથવા FundzBazar, CAMS કે MF Central જેવા પોર્ટલ દ્વારા SIP સ્ટોપ રીક્વેસ્ટ કરો. જ્યાં SIP રજિસ્ટર્ડ છે એના આધારે યોગ્ય પોર્ટલ પસંદ કરો."
+  },
+  {
+    "question": "How do I add or change a nominee in my mutual fund or equity account?",
+    "answer": "Nominee addition or changes can be done online by logging into your account or offline by submitting the Nominee Change Form. For equity accounts, submit the form to Kotak physically. For mutual funds, updates can be made through FundzBazar or MF Central. The processing time is typically 2–3 business days.\nઓનલાઇન તમારા એકાઉન્ટમાં લોગિન કરીને nominee ઉમેરી શકાય છે. ઑફલાઇન માટે Nominee Change Form ભરીને equity માટે Kotak અને મ્યુચ્યુઅલ ફંડ માટે FundzBazar અથવા MF Central દ્વારા સબમિટ કરો. સામાન્ય રીતે 2–3 કામકાજના દિવસોમાં પ્રક્રિયા થાય છે."
+  },
+  {
+    "question": "How do I file an insurance claim?",
+    "answer": "To file an insurance claim, inform the insurer of the claim intent and send all the required documents to the designated address. The process varies slightly depending on the insurer, so make sure to check their specific guidelines before submission.\nવિમો દાવો ફાઈલ કરવા માટે પહેલે વીમા કંપનીને દાવાની જાણ કરો અને બધા જરૂરી દસ્તાવેજો निर्दिष्ट સરનામે મોકલો. પ્રક્રિયા થોડી વિવિધ હોય છે તો કંપનીની માર્ગદર્શિકા ચકાસવી જરૂરી છે."
+  },
+  {
+    "question": "How do I switch mutual fund schemes?",
+    "answer": "A fund switch can be done either online via FundzBazar or by submitting a physical switch form. Choose the source and target schemes and follow the platform's instructions to complete the switch process.\nફંડ સ્કીમ સ્વિચ FundzBazar મારફતે ઓનલાઈન અથવા શારીરિક switch form સબમિટ કરીને કરી શકાય છે. સ્ત્રોત અને લક્ષ્ય સ્કીમ પસંદ કરો અને પ્લેટફોર્મની સૂચનાઓ પ્રમાણે પ્રક્રિયા પૂર્ણ કરો."
+  },
+  {
+    "question": "How do I initiate a Systematic Withdrawal Plan (SWP) in mutual funds?",
+    "answer": "You can initiate an SWP online through FundzBazar or by filling out the SWP form and submitting it physically to PRUDENT. This allows a fixed amount to be withdrawn periodically from your mutual fund investment as per your instructions.\nSWP ઓનલાઇન FundzBazar દ્વારા શરૂ કરી શકાય છે અથવા SWP form ભરીને PRUDENTને શારીરિક રીતે સબમિટ કરવું પડે. SWP તમારા રોકાણમાંથી નિયમિત રીતે નક્કી રકમ ઉપાડવા દે છે."
+  },
+  {
+    "question": "How do I log in to my mutual fund account?",
+    "answer": "Mutual fund logins can be managed online through platforms like FundzBazar. In case of cheque-based SIP or lump sum transactions, physical submission may be required via platforms such as Prudent. Login issues are typically handled on a case-by-case basis depending on the client query.\nFundzBazar જેવા પ્લેટફોર્મ પરથી મ્યુચ્યુઅલ ફંડમાં લોગિન કરી શકાય છે. જો ચેક આધારિત SIP કે લમ્પસમ ટ્રાન્ઝેક્શન હોય, તો physical સબમિશન જરૂરી પડી શકે. લોગિન સંબંધિત પ્રશ્નો વિગતવાર નિરીક્ષણ પરથી ઉકેલાય છે."
+  },
+  {
+    "question": "How do I complete mutual fund KYC online?",
+    "answer": "To complete your KYC for mutual funds online, first open an account on FundzBazar. If your KYC is pending or fresh, it can be completed directly through the platform during account opening by following the eKYC process.\nFundzBazar પર એકાઉન્ટ ઓપન કરીને KYC ઑનલાઇન પૂરુ કરી શકાય છે. જો તમારું KYC બાકી છે કે નવી છે, તો એ-account opening દરમિયાન જ eKYC પ્રક્રિયા દ્વારા પૂર્ણ કરી શકાય છે."
+  },
+  {
+    "question": "How do I submit a commodity pledge request?",
+    "answer": "To submit a commodity pledge request, send an email from the official AP email ID to bhawana.khot@kotak.com, atulr.yadav@kotak.com, and JULIJETHVA@erigoindia.com with the subject line 'Please approve pledge request (CLIENT CODE) and EPG No'. Attach the pledge creation receipt with your email.\ncommodity pledge રીક્વેસ્ટ માટે અધિકૃત AP ઇમેઇલ IDમાંથી bhawana.khot@kotak.com, atulr.yadav@kotak.com અને JULIJETHVA@erigoindia.com પર 'Please approve pledge request (CLIENT CODE) and EPG No' વિષય સાથે ઈમેઇલ મોકલો. ઇમેઇલ સાથે pledge creation receipt અટૅચ કરવી."
+  },
+  {
+    "question": "How do I withdraw stocks in case of emergency?",
+    "answer": "To initiate an emergency stock withdrawal, send an email from the official AP email ID to bhawana.khot@kotak.com, atulr.yadav@kotak.com, and JULIJETHVA@erigoindia.com with the subject 'Withdrawal Process Emergency (CLIENT CODE)'. Make sure to attach the pledge creation receipt for validation.\nઇમરજન્સી સ્ટોક વિથડ્રોલ કરવા માટે અધિકૃત AP ઇમેઇલ IDમાંથી bhawana.khot@kotak.com, atulr.yadav@kotak.com અને JULIJETHVA@erigoindia.com પર 'Withdrawal Process Emergency (CLIENT CODE)' વિષય સાથે ઈમેઇલ મોકલવો. ઈમેઇલમાં pledge creation receipt એટૅચ કરવી."
+  },
+  {
+    "question": "How do I request an instruction slip for commodities?",
+    "answer": "To request a commodity instruction slip, email bhawana.khot@kotak.com, atulr.yadav@kotak.com, and JULIJETHVA@erigoindia.com from the official AP email ID with the subject 'Please approve pledge request (CLIENT CODE) and EPG No'. Include the pledge creation receipt as an attachment.\ncommodity instruction slip માટે, અધિકૃત AP ઇમેઇલ ID પરથી bhawana.khot@kotak.com, atulr.yadav@kotak.com અને JULIJETHVA@erigoindia.com પર 'Please approve pledge request (CLIENT CODE) and EPG No' વિષય સાથે ઈમેઇલ મોકલો. સાથે pledge creation receipt પણ એટૅચ કરો."
+  },
+  {
+    "question": "How do I raise an API request for equity services?",
+    "answer": "API requests for equity services are handled internally. Submit your API request through the appropriate technical support channel or service form as per internal procedure. Reach out to the tech team if you're unsure where to start.\nequity સર્વિસ માટે API રીક્વેસ્ટ આંતરિક રીતે સંભાળવામાં આવે છે. યોગ્ય ટેકનિકલ સપોર્ટ ચેનલ કે સર્વિસ ફોર્મ મારફતે API રીક્વેસ્ટ સબમિટ કરો. જો શંકા હોય કે શરુઆત કઈ જગ્યાએથી કરવી, તો ટેક ટીમનો સંપર્ક કરો."
+  },
+  {
+    "question": "How do I submit a request for ODIN activation?",
+    "answer": "To activate ODIN, fill out the ODIN activation form and all relevant annexures. Submit them physically along with dealer documentation to the Kotak office for processing.\nODIN સક્રિય કરવા માટે ODIN Activation Form અને સંબંધિત તમામ Annexures ભરો. Dealer Documentation સાથે ફોર્મ Kotak ઓફિસમાં શારીરિક રીતે સબમિટ કરો જેથી પ્રક્રિયા આગળ વધે."
+  },
+  {
+    "question": "How do I activate a CCRL account for commodities?",
+    "answer": "To activate a CCRL (Clearing Corporation of India Ltd) account, complete and submit the required physical forms as per Kotak’s procedure. This process must be handled manually with all documentation provided in hard copy.\nCCRL (Clearing Corporation of India Ltd) એકાઉન્ટ commodity માટે સક્રિય કરવા માટે જરૂરી શારીરિક ફોર્મ્સ Kotakના નિર્ધારિત પ્રોસેસ મુજબ પૂરાં કરી સબમિટ કરો. આ પ્રક્રિયા સંપૂર્ણપણે મેન્યુઅલ છે."
+  },
+  {
+    "question": "How do I activate a NERL account?",
+    "answer": "NERL (National E-Repository Limited) account activation is a physical process. Submit the required activation documents in hard copy to Kotak as per the standard procedure for commodities.\nNERL (National E-Repository Limited) એકાઉન્ટ સક્રિય કરવા માટે જરૂરી activation documents મેન્યુઅલી ભરવાના અને Kotakમાં હાર્ડ કૉપિમાં સબમિટ કરવાના. આ commodity સંબંધિત ધોરણે હોય છે."
+  },
+  {
+    "question": "How do I intimate an insurance claim?",
+    "answer": "To intimate an insurance claim, send an email to the insurer using the email address provided in the client’s policy. Mention the policy number and basic details about the claim for further assistance.\nવિમો ક્લેઇમ intiમેટ કરવા માટે, ગ્રાહકની પોલિસીમાં આપેલ ઇમેઇલ એડ્રેસ પર ઇમેઇલ મોકલીને કંપનીને ક્લેઇમના ઈરાદા વિશે જાણ કરો. પોલિસી નંબર અને ક્લેઇમના આધારે જરૂરી પ્રાથમિક વિગતો પણ ઉમેરવી જોઈએ."
+  },
+  {
+    "question": "How do I resolve a mutual fund credit issue?",
+    "answer": "If you're facing a mutual fund credit issue, contact the PRUDENT back office or use the appropriate portal to follow up on the transaction. You may also call PRUDENT directly to verify the status of fund credit or discrepancies.\nમ્યુચ્યુઅલ ફંડ ક્રેડિટમાં સમસ્યા હોય તો PRUDENT બેક ઑફિસ અથવા યોગ્ય પોર્ટલનો ઉપયોગ કરીને ફોલો અપ કરો. તમારું ફંડ ક્રેડિટ થયા છે કે નહીં એ ચકાસવા માટે PRUDENTને સીધો ફોન પણ કરી શકો છો."
+  },
+  {
+    "question": "How do I convert physical shares to demat format?",
+    "answer": "To convert physical shares into demat form, fill out the Dematerialization Request Form (DRF) and submit it along with the original share certificates to Kotak or your DP. The process is manual and typically involves verification by the RTA and depository.\nphysical શેર ડીમેટ બનાવવા માટે Dematerialization Request Form (DRF) ભરીને ઓરિજિનલ શેર સર્ટિફિકેટ સાથે Kotak અથવા તમારા DPને સબમિટ કરો. આ પ્રક્રિયા મેન્યુઅલ છે અને તેમાં RTA અને Depository દ્વારા ચકાસણી થાય છે."
+  },
+  {
+    "question": "How do I request a mutual fund statement of account?",
+    "answer": "Mutual fund statements can be accessed anytime via the online portfolio section of the FundzBazar or PRUDENT portal. You can also download portfolio valuation reports directly from the respective dashboard when required.\nમ્યુચ્યુઅલ ફંડનું Statement of Account FundzBazar અથવા PRUDENT પોર્ટલના Portfolio વિભાગ પરથી કોઈ પણ સમયે ડાઉનલોડ કરી શકાય છે. જ્યારે જરૂર હોય ત્યારે ડેશબોર્ડમાંથી portfolio valuation report પણ મેળવી શકાય છે."
+  },
+  {
+    "question": "How do I activate SLBM (Stock Lending and Borrowing Mechanism)?",
+    "answer": "To activate SLBM, fill out the SLBM activation form, sign it, and submit it physically to Kotak for processing. Once submitted, the activation will be handled by the operations team.\nSLBM સક્રિય કરવા માટે SLBM Activation Form ભરીને સાઇન કરો અને Kotakમાં શારીરિક રીતે સબમિટ કરો. ફોર્મ સબમિટ થયા પછી ઓપરેશન ટીમ પ્રક્રિયા આગળ વધારશે."
+  },
+  {
+    "question": "How can I request a brokerage slab change for equity?",
+    "answer": "To request a brokerage change, email from your official AP ID to akshay.limbachia@kotak.com, roshani.panchal@kotak.com, and lalitkotadiya@erigoindia.com. Include the subject 'BROKERAGE REDUCE (CLIENT CODE)', and specify the client's name, code, and the requested brokerage slab as per format.\nbrokerage slab બદલવા માટે અધિકૃત AP ઇમેઇલ ID પરથી akshay.limbachia@kotak.com, roshani.panchal@kotak.com અને lalitkotadiya@erigoindia.com પર ઈમેઇલ મોકલવો. વિષય 'BROKERAGE REDUCE (CLIENT CODE)' હોવો જોઈએ અને ક્લાયન્ટનું નામ, કોડ અને માંગેલો brokerage slab ઉમેરવો."
+  },
+  {
+    "question": "How do I pause my mutual fund SIP?",
+    "answer": "You can pause your SIP online through FundzBazar by logging into your account and selecting the SIP pause option from the active folio. The pause duration and restart parameters must be specified as per your needs.\nFundzBazar પર લોગિન કરીને તમારા એકાઉન્ટમાંથી SIP pause ઓપ્શન પસંદ કરો. Pause માટેનો સમયગાળો અને પુનઃશરૂઆતની તારીખ આપવી જોઈએ."
+  },
+  {
+    "question": "How do I reactivate a dormant account in equity?",
+    "answer": "To reactivate a dormant account, fill out the Dormant Activation Form and upload it through Kotak CRM under the call type 'INCOME RANGE UPDATION AND DORMANT'. Update the income range (e.g., ₹5–10 lakh) and attach the form along with remarks. This process requires both CRM update and physical form submission.\nDormant Activation Form ભરીને Kotak CRMમાં 'INCOME RANGE UPDATION AND DORMANT' CALL TYPE હેઠળ અપલોડ કરો. આવક રેન્જ (જેમ કે ₹5–10 લાખ) અપડેટ કરો અને ફોર્મ સાથે રીમાર્ક્સ ઉમેરો. આ પ્રક્રિયા CRM અપડેટ અને શારીરિક ફોર્મ સબમિશન બંનેમાં આવરી લે છે."
+  },
+  {
+    "question": "How do I schedule a portfolio review call for equity or mutual funds?",
+    "answer": "To request a portfolio review, contact the designated research or advisory representative to set up a review call. The advisor will walk through your holdings and provide tailored investment insights based on your goals.\nportfolio review માટે નિમણૂક કરેલા research અથવા advisory પ્રતિનિધિનો સંપર્ક કરો જેથી તેઓ તમારી હોલ્ડિંગ્સની સમીક્ષા કરી અને રોકાણ ધ્યેયોને અનુરૂપ સલાહ આપી શકે."
+  },
+  {
+    "question": "How do I activate a new segment in my trading account?",
+    "answer": "Segment activation can be done online by logging into your Kotak account. Go to Service > Service Request > Segment Activation, select the payout frequency, upload supporting documents (like ITR and 6-month bank statement), agree to the terms and conditions, and submit the request.\nKotak એકાઉન્ટમાં લોગિન કરીને Service > Service Request > Segment Activation પર જાઓ, payout frequency પસંદ કરો, આધાર દસ્તાવેજો (ITR અને છેલ્લાં 6 મહિનાની બેંક સ્ટેટમેન્ટ) અપલોડ કરો, શરતો સ્વીકારીને સબમિટ કરો."
+  },
+  {
+    "question": "How do I request a new DIS book?",
+    "answer": "You can order a new DIS (Delivery Instruction Slip) book either online by logging into your account under Service > Service Request > DIS Request or submit a physical DIS Book Request Form to Kotak manually.\nDIS (Delivery Instruction Slip) બુક ઑર્ડર ઓનલાઇન લોગિન કરીને Service > Service Request > DIS Request હેઠળ કરો અથવા DIS Book Request Form શારીરિક રીતે Kotakમાં સબમિટ કરો."
+  },
+  {
+    "question": "How do I update my bank details for equity or mutual fund accounts?",
+    "answer": "To update your bank in equity, log in to your account and go to Service > Service Request > Bank Updation, then add the new account details and save. For mutual funds, you can update it online via FundzBazar or MF Central, or submit a physical modification form with cancelled cheques of the old and new banks to PRUDENT.\nequity માટે, એકાઉન્ટ લોગિન કરીને Service > Service Request > Bank Updationમાં જાઓ, નવી વિગતો ઉમેરો અને Save કરો. મ્યુચ્યુઅલ ફંડ માટે FundzBazar, MF Central દ્વારા ઑનલાઇન અપડેટ કરો અથવા શારીરિક ફેરફાર ફોર્મ સાથે જૂના અને નવા બેન્કના રદ્દ ચેક PRUDENTને સબમિટ કરો."
+  },
+  {
+    "question": "How do I update my address in equity records?",
+    "answer": "To update your address in equity records, submit the C-KYC form to Kotak along with the following documents: a copy of your new Aadhaar card, a passport-size photograph, and your PAN card. The form and documents must be submitted physically to the designated branch for the change to take effect.\nસરણામું અપડેટ કરવા માટે, CKYC ફોર્મ સાથે Aadhaar કાર્ડ (નવું સરનામું દર્શાવતું), પાસપોર્ટ સાઇઝ ફોટો અને PAN કાર્ડની નકલ Kotakના બ્રાન્ચમાં શારીરિક રીતે સબમિટ કરો."
+  },
+  {
+    "question": "How do I update my email ID for equity and mutual fund accounts?",
+    "answer": "To update your email ID online, log in to your Kotak equity account and go to Service > Service Request > Contact Detail Updation. Enter the new email ID, complete e-signing with your Aadhaar, and submit the request. Alternatively, fill out Kotak’s email/mobile update form and submit it via CRM, or update your mutual fund email through FundzBazar or MF Central by submitting the offline modification form.\nequity માટે, Kotak એકાઉન્ટમાં લોગિન કરીને Service > Service Request > Contact Detail Updation હેઠળ નવી ઈમેઇલ ID દાખલ કરો, Aadhaar આધારિત ઇ-સાઇન કરો અને સબમિટ કરો. વૈકલ્પિક રીતે Kotakનું Email/Mobile Update Form CRM દ્વારા સબમિટ કરો. મ્યુચ્યુઅલ ફંડ માટે FundzBazar કે MF Central દ્વારા ઑનલાઇન કે ઑફલાઇન ફેરફાર ફોર્મ મારફતે અપડેટ કરો."
+  },
+  {
+    "question": "How do I update my mobile number for equity and mutual fund accounts?",
+    "answer": "To update your mobile number, log into your Kotak account and go to Service > Service Request > Contact Detail Updation. Fill in the new mobile number, sign the request via Aadhaar-based e-sign, and submit. Offline updates can also be done by submitting Kotak’s change form through CRM. For mutual funds, submit the mobile update request through FundzBazar or MF Central using the appropriate form.\nequity માટે, Kotak પોર્ટલમાં Service > Service Request > Contact Detail Updationમાં નવી મોબાઇલ નંબર દાખલ કરો, Aadhaar આધારિત ઇ-સાઇન કરો અને સબમિટ કરો. ઑફલાઇન વિકલ્પ તરીકે Kotakનું change form CRM દ્વારા સબમિટ કરો. મ્યુચ્યુઅલ ફંડ માટે FundzBazar કે MF Central પર યોગ્ય ફોર્મ મારફતે અપડેટ કરો."
+  }
 ]
